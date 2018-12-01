@@ -1,3 +1,9 @@
 This is my first git program.
 Date:2018/12/01
+Approach:
+Step1:edit or add anything you want.
+Step2:git add your changed things
+Step3:git commit 
+Step4:git push origin master
 Jun
+
