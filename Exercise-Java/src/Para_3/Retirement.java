@@ -1,5 +1,7 @@
 package Para_3;
-
+/**
+ * while Ñ­»·
+ */
 import java.util.*;
 
 /**  
@@ -40,6 +42,6 @@ public class Retirement
 			years++;
 		}
 		
-		System.out.println("Your can retire in " + years + "years.");
+		System.out.println("Your can retire in " + years + " years.");
 	}
 }
